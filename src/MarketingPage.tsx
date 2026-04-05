@@ -103,7 +103,7 @@ export function MarketingPage() {
       <header className="marketing-header">
         <div className="marketing-brand">
           <span className="marketing-brand-mark" />
-          Refine
+          StellaPath
         </div>
         <nav className="marketing-nav">
           <a href="#value">導入価値</a>
